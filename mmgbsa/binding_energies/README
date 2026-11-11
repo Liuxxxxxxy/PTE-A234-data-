@@ -1,0 +1,5 @@
+# MM/GBSA Binding Free Energies
+
+This directory contains MM/GBSA binding free energy results for GG1-S, GG1-R, GG2-S, GG2-R, GGM-S, and GGM-R.
+
+Calculations were performed using MMPBSA.py in AMBER 18.
