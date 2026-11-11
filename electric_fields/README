@@ -1,0 +1,7 @@
+# Protein Electric Field Projection Data
+
+This directory contains protein electric field projections along the substrate P–F bond cleavage direction.
+
+The positive projection direction is defined from the substrate phosphorus atom toward the fluorine atom. Electric field values are reported in MV/cm.
+
+The OPJU file can be opened in Origin to view the data-analysis.
