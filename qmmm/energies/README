@@ -3,3 +3,10 @@
 This directory contains the spreadsheet `energy correct.xlsx`, which reports the QM/MM reaction-path energy data used in the manuscript.
 
 The reported reaction profiles include zero-point energy corrections. Relative energies are referenced to the reactant complex of the corresponding system and are expressed in kcal/mol.
+
+## Structure Labels
+
+- RC: reactant complex.
+- TS or TS1/TS2: transition state or sequential transition states.
+- IM1: intermediate.
+- P: product complex.
