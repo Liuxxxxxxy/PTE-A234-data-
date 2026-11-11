@@ -1,0 +1,9 @@
+# MM/GBSA Per-Residue Energy Decomposition
+
+This directory contains per-residue MM/GBSA energy decomposition results for GG1-S, GG1-R, GG2-S, GG2-R, GGM-S, and GGM-R.
+
+## Energy Contributions
+
+The results describe individual residue contributions to substrate binding, including van der Waals, electrostatic, polar solvation, nonpolar solvation, and total contributions. Backbone and side-chain contributions are provided where reported.
+
+All energies are expressed in kcal/mol. Negative values indicate favorable contributions within the MM/GBSA decomposition model. These contributions are not independent residue binding free energies.
