@@ -1,0 +1,12 @@
+# Protein Backbone RMSD
+
+This directory contains protein backbone root-mean-square deviation (RMSD) data from the MD simulations of GG1-S, GG1-R, GG2-S, GG2-R, GGM-S, and GGM-R.
+
+RMSD values describe structural deviations from the reference structure after alignment of the protein backbone atoms.
+
+## Data Format
+
+- Time: (ns)
+- RMSD: angstroms (Å)
+
+File names identify the corresponding enzyme–substrate complex.
