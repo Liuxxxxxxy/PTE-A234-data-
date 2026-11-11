@@ -1,0 +1,13 @@
+# Dynamic Cross-Correlation Matrices
+
+This directory contains dynamic cross-correlation matrix (DCCM) data calculated from the equilibrated molecular dynamics trajectories.
+
+The matrices describe correlated residue motions for the systems included in the manuscript. CSV files can be opened with spreadsheet or data-analysis software.
+
+## File Contents
+
+- Rows and columns correspond to residues.
+- Matrix values represent pairwise motion-correlation coefficients.
+- Residue numbering follows the model numbering described in the main repository README. The manuscript uses residue labels based on the original crystal structure numbering.
+
+See the corresponding CSV files for system identifiers and matrix labels.
