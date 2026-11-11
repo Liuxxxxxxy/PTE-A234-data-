@@ -1,0 +1,6 @@
+# Representative MD Structures
+
+This directory contains representative protein–substrate structures from the equilibrated MD trajectories of GG1-S, GG1-R, GG2-S, GG2-R, GGM-S, and GGM-R.
+
+For each system, the representative structure of the most populated cluster was selected.
+Structures are provided in PDB format and can be opened with molecular visualization software such as PyMOL.
